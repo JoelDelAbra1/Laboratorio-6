@@ -1,0 +1,28 @@
+
+*{
+    font-family: 'Varela Round', sans-serif;
+    color: white;
+}
+
+body{
+    background-color: #235390;
+}
+
+.links{
+    color: white;
+}
+
+.barra{
+    background-color: #235390;
+    
+}
+
+.activo{
+    color: white;
+    text-decoration:underline;
+    
+}
+
+.enlace{
+    color: #61e002
+}
