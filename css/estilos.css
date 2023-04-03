@@ -13,7 +13,7 @@ body{
 }
 
 .barra{
-    background-color: #235390;
+    background-color: #61e002;
     
 }
 
@@ -25,4 +25,9 @@ body{
 
 .enlace{
     color: #61e002
+}
+
+
+.texto_justy{
+    text-align: justify;
 }
