@@ -31,3 +31,7 @@ body{
 .texto_justy{
     text-align: justify;
 }
+
+.txt-alado{
+    align-items: center;
+}
